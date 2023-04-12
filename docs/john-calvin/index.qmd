@@ -10,3 +10,7 @@ format:
 ---
 
 This is an example submission.
+
+You can use this file to create links to your other materials.
+
+* [this file](index.html) -- silly example ;-)
