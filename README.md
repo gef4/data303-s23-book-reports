@@ -8,6 +8,8 @@ To contribute your book report handout and any additional files
 
 * Put your files into that directory.
 
+    * Create and `index.html` (probably from `index.qmd`) that has links to your other documents.
+
     * **Choose good file names**.
         * Don't include spaces or special characters.
         * You might like to include your name (even though the folder also includes your name).
@@ -20,5 +22,5 @@ To contribute your book report handout and any additional files
         * For Quarto HTML documents put `embed-resouces: true` in your YAML header.
     
         * For RMarkdown HTML documents put `self-contained: true` in your YAML header.
-    
+
 * Issue a pull request.
