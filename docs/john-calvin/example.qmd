@@ -1,0 +1,12 @@
+---
+title: Example File
+subtitle: Data 303 Book Reports
+title-block-banner: maroon
+title-block-banner-color: gold
+embed-resources: true
+format: 
+  html:
+    theme: yeti
+---
+
+This is an example submission.
