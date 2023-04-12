@@ -1,0 +1,25 @@
+---
+title: Data 303 Book Reports
+subtitle: Spring 2023
+title-block-banner: true
+embed-resources: true
+output:
+  html:
+    theme: yeti
+---
+
+```{r}
+#| echo: false
+#| results: asis
+
+files <- dir()
+
+for (f in files) {
+  if (dir.exists(f)) {
+    cat(paste0("[",f,"](",f,")"))  
+  }
+}
+
+```
+
+    
