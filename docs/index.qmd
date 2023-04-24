@@ -16,10 +16,10 @@ files <- dir()
 
 for (f in files) {
   if (dir.exists(f)) {
-    cat(paste0("[",f,"](",f,")"))  
-    docs <- dir(f)
+    cat(paste0("\n\n## [",f,"](",f,")"))  
+    docs <- dir(f, pattern = "ptx|pdf|html|qmd|docx")
     for (d in docs) {
-    cat(paste0("[",d,"](",d,")"))  
+    cat(paste0("\n* [",d,"](",d,")"))  
     }
   }
 }
