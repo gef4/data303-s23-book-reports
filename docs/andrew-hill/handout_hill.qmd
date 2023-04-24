@@ -1,0 +1,33 @@
+# <i>Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor</i> by Virginia Eubanks
+
+### Citation
+
+Eubanks, Virginia. <i>Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor.</i> St. Martin’s Press, 2018.
+
+
+### Summary
+
+<i>Automating Inequality</i> by Virginia Eubanks is a collection of small case studies describing how the United States uses technology and technological systems to amplify and reinforce existing social inequalities. Eubanks explores systems in three locations; Indiana, Los Angeles, and Alleghany County.
+
+In the mid-2000s, Indiana experimented with automating their welfare system. It was supposed to save the state millions of dollars. It was an instant failure, with thousands of Hoosiers losing their much needed aid. The state refused to listen to their complaints. Eventually, this system was repealed. The Indiana automation experiment was a form of digital diversion for poor and working Americans which denied them of benefits and their dignity. Data scientist need to consider all potential harm that their systems may cause.
+
+In Skid Row in LA, the city uses a scoring system to determine who of the homeless are most deserving of housing. To get a score, individuals have to give their consent for agencies to share their data. This data is shared to agencies around the city, including the police department. Also, it is not clear why individuals are scored the way that are. This system is a way to surveille the most vulnerable population in the city. This calls for data scientists to be transparent in their process.
+
+In Alleghany County, a predictive analytic tool is used to predict child abuse. However, the system is based on historical data that comes from agencies that serve the poor and working class. Since the tool is based on historical data, it flags low income families more than middle class families. These results go back into the system, creating a feedback loop. This model shows the need for systems to treat everyone equally.
+
+### Quotations
+
+“When automated decision-making tools are not built to explicitly dismantle structural inequities, their speed and scale intensify them.”
+
+“Marginalized groups face higher levels of data collections when they access public benefits, walk through highly policed neighborhoods, enter the health-care system, or cross national borders. That data acts to reinforce their marginality when it is used to target them for suspicion and extra scrutiny. Those groups seen as undeserving are singled out for punitive public policy and more intense surveillance, and the cycle begins again. It is a kind of collective red-flagging, a feedback loop of injustice.”
+
+"When a very efficient technology is deployed against a despised outgroup in the absence of strong human rights protections, there is enormous potential for atrocity...Automated tools for classifying the poor, left on their own, will produce towering inequalities unless we make an explicit commitment to forge another path. And yet we act as if justice will take care of itself."
+
+### Response
+
+<i>Automating Inequality</i> was eye-opening when looking at how high-tech tool harm the people they are indented to help. The book shows how these tools discriminate against the poor. I wasn't aware of how widespread these issues are, and I will look out for these inequalities in the future. As data scientists, we need to build systems that are just and treat all equally. We need to consider all potential harms our systems may cause and we must be consistently monitoring these systems for possible issues. We need to be transparent with our process and the data collection process.
+
+I would recommend this book to anyone that is creating high-tech tools and anyone who is interested in the intersection of social justice and technology.
+
+
+
