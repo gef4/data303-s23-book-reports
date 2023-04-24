@@ -2,10 +2,10 @@
 title: Data 303 Book Reports
 subtitle: Spring 2023
 title-block-banner: true
-embed-resources: true
-output:
+format:
   html:
     theme: yeti
+embed-resources: true
 ---
 
 ```{r}
@@ -16,7 +16,11 @@ files <- dir()
 
 for (f in files) {
   if (dir.exists(f)) {
-    cat(paste0("[",f,"](",f,")"))  
+    cat(paste0("\n\n## [",f,"](",f,")"))  
+    docs <- dir(f, pattern = "ptx|pdf|html|qmd|docx")
+    for (d in docs) {
+    cat(paste0("\n* [",d,"](", f, "/", d,")"))  
+    }
   }
 }
 

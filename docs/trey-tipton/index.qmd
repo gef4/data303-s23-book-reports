@@ -1,0 +1,16 @@
+---
+title: Trey Tipton Book Report Files
+subtitle: "Big Data: A Revolution That Will Transform How We Live, Work, and Think"
+title-block-banner: blue
+title-block-banner-color: white
+embed-resources: true
+format: 
+  html:
+    theme: yeti
+---
+
+Here are my files for my book report:
+
+* [Presentation](trey-presentation.html) 
+* [Handout](trey-handout.pdf)
+* [Book Report](trey-book-report.pdf)
