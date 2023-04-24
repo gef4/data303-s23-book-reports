@@ -17,6 +17,10 @@ files <- dir()
 for (f in files) {
   if (dir.exists(f)) {
     cat(paste0("[",f,"](",f,")"))  
+    docs <- dir(f)
+    for (d in docs) {
+    cat(paste0("[",d,"](",d,")"))  
+    }
   }
 }
 
