@@ -1,0 +1,97 @@
+---
+title: "Big Data 303 Report"
+author: "Trey Tipton"
+format: 
+  revealjs:
+    theme: [moon]
+editor: visual
+---
+
+## Big Data: A Revolution That Will Transform How We Live, Work, and Think
+
+::: columns
+::: {.column width="40%"}
+![](bigdataphoto.jpg)
+:::
+
+::: {.column width="60%"}
+::: incremental
+Authors: Viktor Mayer-Schönberger and Kenneth Cukier
+:::
+:::
+:::
+
+## What is "Big Data"?
+
+"big data refers to things one can do at a large scale that cannot be done at a smaller one, to extract new insights or create new forms of value, in ways that change markets, organizations, the relationship between citizens and governments, and more." (13)
+
+## What Made Big Data Possible?
+
+These mindset shifts in the data world:
+
+-   there is a lot more data, and it speaks!
+-   data is messy, and that's okay
+-   respect correlation, not causality
+
+## Big Data Transforms the Way We...
+
+::: incremental
+::: columns
+::: {.column width="50%"}
+-   shop, consume entertainment
+-   interact with friends
+-   browse, receive news
+-   drive
+-   make decisions
+:::
+
+::: {.column width="50%"}
+and it changes the way companies/countries...
+
+-   market, grow
+-   hire/fire
+-   police our areas
+-   govern/make laws
+:::
+:::
+:::
+
+## At What Cost?
+
+-   Data is fallible
+-   Privacy and freedom
+-   Dictatorship of Data
+-   Takes away some of the work, devalues experience
+
+# Themes
+
+## Theme 1: Why vs. What?
+
+-   Causality vs. Correlation
+-   Asking why can lead to wrong decisions
+-   Correlation is more reliable and easier to prove mathematically
+-   Causality has been knocked off its pedestal
+-   Asking what leads to information, which is what truly transforms us
+-   Causality comes after big data does its work, correlation is the priority
+
+## Theme 2: Tradeoffs
+
+::: incremental
+In the era of big data, we have to trade:
+
+-   intuition for data
+-   cleanliness of data for larger datasets
+-   freedom and privacy for safety
+-   anonymity and personalization
+-   free will for accurate predictions
+-   exactitude for value
+-   generalization/prejudice for individual profiling/less discrimination
+:::
+
+## Do I recommend?
+
+::: incremental
+-   Yes!
+:::
+
+## Questions?
