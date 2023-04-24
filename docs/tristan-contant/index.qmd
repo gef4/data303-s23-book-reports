@@ -1,0 +1,10 @@
+---
+title: "Book Report Files"
+author: "Tristan Contant"
+format: html
+editor: visual
+---
+
+-   [Presentation](presentation.pdf)
+-   [Handout](handout.pdf)
+-   [Book Report](book-report.pdf)
