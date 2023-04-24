@@ -2,10 +2,10 @@
 title: Data 303 Book Reports
 subtitle: Spring 2023
 title-block-banner: true
-embed-resources: true
-output:
+format:
   html:
     theme: yeti
+embed-resources: true
 ---
 
 ```{r}
