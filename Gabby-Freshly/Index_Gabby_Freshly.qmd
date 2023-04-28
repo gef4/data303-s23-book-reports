@@ -1,0 +1,30 @@
+---
+title: Data 303 Book Reports
+subtitle: Gabby Freshly Handout
+title-block-banner: blue
+title-block-banner-color: green
+embed-resources: true
+format: 
+  html:
+    theme: yeti
+---
+
+**Bibliography** 
+
+Hai-Jew, Shalin, ed. Data Analytics in Digital Humanities. New York City: Springer Cham, 2017. https://link.springer.com/book/10.1007/978-3-319-54499-1#bibliographic-information.
+
+**Summary**
+
+This book is a compilation of several studies and articles relating to the field of digital humanities and specifically the use of data analytics in the discipline. Digital humanities is the use of digital technology to advance and support the field of humanities. There is a wide variety of ways digital humanities could be implemented and studied using data analytics like building a machine learning classifier to determine parody content on Youtube, analyzing posts on social media to determine sentiment occurrence, and more. One of the articles goes into detail about creating an online corpus from books in order to analyze the frequency of words through the use of Python. The final essay is about the value of an MLIS degree and how they are needed to shape user experiences.
+	
+**Quotes**
+
+“In other words, being able to predict a phenomenon with a statistical model is conceptually quite different from being able to understand it and its implications.” (172)
+
+“The advent of new paradigms for data management based on these technologies can also support the involvement of citizens for identifying what is relevant as territorial cultural heritage, enhancing its distinctiveness, and cross-border sharing of local traditions and knowledge.” (4)
+
+“By giving rules to information, LIS individuals create meaning for individuals.” (290)
+
+**Response**
+
+This was a very technical book which is understandable, however, I would have appreciated a bit more commentary on the field of digital humanities as a whole. There wasn’t a lot of commentary that I disagreed with since most of it was technical work. As someone who will be starting an MLIS degree in the fall, I appreciated Hannah Lee’s insight into the worth of an MLIS degree in our modern, technological age. She argued that library information specialists provide structure to information which is crucial in this day and age and that the worth of a job shouldn’t be measured by the money made, but by the value and satisfaction it provides a worker.
